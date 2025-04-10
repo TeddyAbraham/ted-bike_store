@@ -1,4 +1,4 @@
-# ted-bike_store
+# bike_store
 - 🔍 Conducted Exploratory Data Analysis (EDA) on bike store sales across states, brands, and types using Python and SQL.
 - ⏱️ Analyzed time differences between actual and required delivery times to identify efficiency gaps.
 - 📊 Performed RFM (Recency, Frequency, Monetary) analysis for effective customer segmentation,  enhancing targeted campaigns and increasing customer retention
